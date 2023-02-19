@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   margin: 0;
   padding: 0;
-  line-height: 1;
+  line-height: 1.5;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -208,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #21FFE8;
 }
 #header .logo img {
-  max-height: 50px;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -1378,7 +1378,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #21FFE8;
+  background: ;
   border: 0;
   padding: 10px 24px;
   color: #151515;
